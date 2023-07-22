@@ -46,6 +46,7 @@ sudo systemctl enable --now jenkins
 ```
 ```
 5. Step 5: Set up Jenkins
+
 1. Open a web browser, and navigate to your server' IP address. Use the following syntax: http://ip_address_or_domain:8080
 
 2. Obtain the default Jenkins unlock password by opening the terminal and running the following command:
