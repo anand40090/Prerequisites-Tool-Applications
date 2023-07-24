@@ -69,3 +69,5 @@ Configure Database for Sonar
 6. Create a SonarQube Systemd service file
 7. Allow Sonarqube port in Ubuntu 20.04 firewall
 8. Access the Sonarqube Web interface
+
+### How to install [Jfrog](https://computingforgeeks.com/how-to-install-jfrog-artifactory-on-ubuntu/?expand_article=1)
