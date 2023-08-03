@@ -71,3 +71,5 @@ Configure Database for Sonar
 8. Access the Sonarqube Web interface
 
 ### How to install [Jfrog](https://computingforgeeks.com/how-to-install-jfrog-artifactory-on-ubuntu/?expand_article=1)
+
+### How to install [Apache Maven](https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu) /  [Download Maven](https://maven.apache.org/download.cgi)
