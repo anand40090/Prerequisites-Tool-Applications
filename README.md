@@ -73,3 +73,5 @@ Configure Database for Sonar
 ### How to install [Jfrog](https://computingforgeeks.com/how-to-install-jfrog-artifactory-on-ubuntu/?expand_article=1)
 
 ### How to install [Apache Maven](https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu) /  [Download Maven](https://maven.apache.org/download.cgi)
+
+### How to integrate [Sonarqube with Jenkins Pipeline](https://automationqahub.com/how-to-integrate-sonarqube-with-jenkins/)
