@@ -62,7 +62,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 1. Run Ubuntu system update
 2. Install Java OpenJDK
 3. Create a Dedicated user for Sonarqube
-3. Install PostgreSQL Database [Option1](https://ubuntu.com/server/docs/databases-postgresql) [Option2](https://www.postgresql.org/download/linux/ubuntu/)
+3. Install PostgreSQL Database [Option1](https://ubuntu.com/server/docs/databases-postgresql) [Option2](https://www.postgresql.org/download/linux/ubuntu/) [Option3](https://www.cherryservers.com/blog/how-to-install-and-setup-postgresql-server-on-ubuntu-20-04)
 4. Create a database for Sonar
 5. Download and Setup SonarQube on Ubuntu 20.04/18.04
 Configure Database for Sonar
