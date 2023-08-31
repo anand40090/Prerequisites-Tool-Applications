@@ -75,3 +75,6 @@ Configure Database for Sonar
 ### How to install [Apache Maven](https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu) /  [Download Maven](https://maven.apache.org/download.cgi)
 
 ### How to integrate [Sonarqube with Jenkins Pipeline](https://automationqahub.com/how-to-integrate-sonarqube-with-jenkins/)
+### How to install Kubectl [Install and Setup Kubectl](https://sunitabachhav2007.hashnode.dev/prometheus-and-grafana-dashboard-on-eks-cluster-using-helm-chart#heading-install-and-setup-kubectl)
+### [Install and Setup eksctl](https://sunitabachhav2007.hashnode.dev/prometheus-and-grafana-dashboard-on-eks-cluster-using-helm-chart#heading-install-and-setup-eksctl)
+### [Install AWS CLI and Configure](https://sunitabachhav2007.hashnode.dev/prometheus-and-grafana-dashboard-on-eks-cluster-using-helm-chart#heading-install-aws-cli-and-configure)
