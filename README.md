@@ -70,6 +70,8 @@ Configure Database for Sonar
 7. Allow Sonarqube port in Ubuntu 20.04 firewall
 8. Access the Sonarqube Web interface
 
+Install sonarqube using docker compose (https://chatgpt.com/share/df257764-20a4-4f49-9425-608f1970e93f)
+
 ### How to install [Jfrog](https://computingforgeeks.com/how-to-install-jfrog-artifactory-on-ubuntu/?expand_article=1)
 
 ### How to install [Apache Maven](https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu) /  [Download Maven](https://maven.apache.org/download.cgi)
